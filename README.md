@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img width="593" alt="Captura de tela 2024-01-21 192826" src="https://github.com/Rafael-Rodrigues23/Projeto04_Cheesecake/assets/94968001/970a9c49-d5d4-4006-8e85-df64c62ea72e">
+  <img width="988" alt="Captura de Tela 2024-07-30 às 22 26 28" src="https://github.com/user-attachments/assets/4b794505-f08b-4983-aaf7-e15862073572">
 </p>
 
 ## 🚀 Tecnologias
@@ -38,7 +38,7 @@ A Calculadora de IMC é um projeto para representar o ensinamento do Java Script
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/M00xG9pWsQNikKYpFsv2JJ/Cheesecake-%E2%80%A2-Projeto-Explorer-(Community)?type=design&node-id=113-93&mode=design&t=GzOpxkfPAdTJVmX6-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-Ou veja o projeto funcionando através do [SITE](https://rafael-rodrigues23.github.io/Projeto04_Cheesecake/)
+Ou veja o projeto funcionando através do [SITE](https://rafael-rodrigues23.github.io/Exercicio06_IMC/)
 
 ## :memo: Licença
 
